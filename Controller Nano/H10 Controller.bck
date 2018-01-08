@@ -1,0 +1,150 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V3
+K POWER, PWR
+$ENDCMP
+#
+$CMP 4-40_Hole
+D Mounting Hole, 4-40
+$ENDCMP
+#
+$CMP 74xx125
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
+$CMP 74xx165
+D Octal Shift Register, Parallel In - Serial Out
+$ENDCMP
+#
+$CMP 74xx595
+D Octal Shift Register, Serial In - Parallel Out
+$ENDCMP
+#
+$CMP 74xxx04
+D Hex Inverter
+$ENDCMP
+#
+$CMP BARREL_JACK
+D DC Barrel Jack
+K DC power barrel jack connector
+$ENDCMP
+#
+$CMP BATT+
+K POWER, PWR
+$ENDCMP
+#
+$CMP BATT-
+K POWER, PWR
+$ENDCMP
+#
+$CMP Buzzer
+D Buzzer, polar
+K Quartz Resonator Ceramic 
+$ENDCMP
+#
+$CMP CONN_01X05
+D Connector, single row, 01x05, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X06
+D Connector, single row, 01x06, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X07
+D Connector, single row, 01x07, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X08
+D Connector, single row, 01x08, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_01X10
+D Connector, single row, 01x10, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X05
+D Connector, double row, 02x05, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X13
+D Connector, double row, 02x13, pin header
+K connector
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP DIP_Switch_3
+D 3 Position DIP Switch
+$ENDCMP
+#
+$CMP DIP_Switch_4
+D 4 Position DIP Switch
+$ENDCMP
+#
+$CMP DISPLAY
+D Afficheur LCD nLignes
+K DEV
+$ENDCMP
+#
+$CMP ESP8266
+D Connector, double row, 02x04, pin header
+K connector
+$ENDCMP
+#
+$CMP MAX14775E
+D RS485 transceiver
+K rs485 transceiver
+$ENDCMP
+#
+$CMP MAX3232
+D RS-232 Tranceiver
+$ENDCMP
+#
+$CMP MOSFET_N-Channel
+D Transistor N-MOSFET (general)
+$ENDCMP
+#
+$CMP RJ45_POE_wLEDS
+D RJ45, status leds
+K RJ45 RJ45_LEDS
+$ENDCMP
+#
+$CMP RR8
+D Octal SIP Resistor Array
+$ENDCMP
+#
+$CMP RS485_Tranciever
+D  RS485 Transceiver
+K RS485
+F http://datasheets.maximintegrated.com/en/ds/MAX13450E-MAX13451E.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G125
+D 3-input OR Gate
+K 3 input OR
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g332.pdf
+$ENDCMP
+#
+$CMP TLC5916
+D Octal LED Driver
+$ENDCMP
+#
+$CMP mounting_hole_4-40
+D Mounting Hole, 4-40
+$ENDCMP
+#
+#End Doc Library

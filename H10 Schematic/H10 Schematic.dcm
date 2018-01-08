@@ -1,0 +1,159 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +25V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +4.4V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +5V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +9V
+K POWER, PWR
+$ENDCMP
+#
+$CMP 74xx00
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+$CMP 74xx02
+D Quad Nor2
+K TTL Nor2
+$ENDCMP
+#
+$CMP 74xx03
+D Quad Nand2 open collect
+K TTL Nand2 OpenCol
+$ENDCMP
+#
+$CMP 74xx08
+D Quad And2
+K TTL and2
+$ENDCMP
+#
+$CMP 74xx09
+D Quad And2, Open Collector
+K TTL and2
+$ENDCMP
+#
+$CMP 74xx121
+D Monostable Milti-vibrator
+K one shot
+$ENDCMP
+#
+$CMP 74xx123
+D Dual retriggerable Monostable
+K TTL monostable
+$ENDCMP
+#
+$CMP 74xx17
+D Hex Open Collector Buffer
+$ENDCMP
+#
+$CMP 74xx72
+D J-K Flip Flop
+$ENDCMP
+#
+$CMP 74xx74
+D Dual D FlipFlop, Set & Reset
+K TTL DFF
+F 74xx/74hc_hct74.pdf
+$ENDCMP
+#
+$CMP 7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP CP1_Small
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP C_Small
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP D_Small_ALT
+D Diode, small symbol, alternativ symbol
+K diode
+$ENDCMP
+#
+$CMP Earth
+D Ground
+K POWER, PWR, GND, GROUND
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP H10_Interface
+D 25-pin female D-SUB connector
+K female D-SUB connector
+$ENDCMP
+#
+$CMP LM2901
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP OPTO-DARLINGTON
+D Generic DC Darlington Optocoupler
+K NPN Darlington DC Optocoupler
+$ENDCMP
+#
+$CMP Q
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP Q_NPN_BEC
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP SPST_Switch
+D SinglePoleSingleThrow Switch
+$ENDCMP
+#
+$CMP Solenoid
+D Solenoid
+$ENDCMP
+#
+$CMP TestPoint
+D TestPoint
+$ENDCMP
+#
+$CMP Transformer_SP_2S
+D Transformer, split primary, dual secondary
+K transformer coil magnet
+$ENDCMP
+#
+$CMP VCC
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
